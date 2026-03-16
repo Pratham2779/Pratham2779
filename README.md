@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratham2779" alt="pratham2779" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [portfolio.prathamesh.site](portfolio.prathamesh.site)
+- 👨‍💻 All of my projects are available at [portfolio.prathamesh.site](https://portfolio.prathamesh.site)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
