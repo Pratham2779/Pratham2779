@@ -28,6 +28,7 @@ Beyond web and cloud development, I am an avid programmer with a passion for alg
 <a href="https://www.codechef.com/users/boss373" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="boss373" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/prathamesh527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prathamesh527" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/GuravPrathamesh_79/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="GuravPrathamesh_79" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
