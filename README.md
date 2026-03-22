@@ -9,7 +9,7 @@
 
 I am a third-year Information Technology undergraduate specializing in full-stack development and DevOps. I enjoy building scalable, containerized applications—such as cloud IDEs and centralized management systems—and have hands-on experience setting up and managing self-hosted Linux servers using Docker, Nginx, and Traefik.
 
-Beyond web and cloud development, I am an avid programmer with a passion for algorithms and data structures, maintaining a Top 11.4% global ranking on LeetCode. I also enjoy tinkering with IoT hardware and exploring network security.
+Beyond web and cloud development, I am an avid programmer with a passion for algorithms and data structures, maintaining a good global ranking on LeetCode. I also enjoy tinkering with IoT hardware and exploring network security.
 
 * 🌱 **Currently focusing on:** Advanced system architecture, CI/CD automation, and solving algorithmic challenges.
 * 💼 **Open to:** Software Engineering and DevOps Summer Internships for 2026.
@@ -17,7 +17,6 @@ Beyond web and cloud development, I am an avid programmer with a passion for alg
 
 <br>
 
-- 🚀 All of my projects are available at [portfolio.prathamesh.site](https://portfolio.prathamesh.site)
 
 ### Blogs posts
 <h3 align="left">Connect with me:</h3>
