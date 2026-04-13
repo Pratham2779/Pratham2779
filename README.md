@@ -35,6 +35,3 @@ Portfolio link https://portfolio.prathamesh.site
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pratham2779&show_icons=true&locale=en&layout=compact" alt="Pratham2779" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pratham2779&show_icons=true&locale=en" alt="Pratham2779" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratham2779&" alt="Pratham2779" /></p>
