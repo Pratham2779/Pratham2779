@@ -18,7 +18,6 @@ Beyond web and cloud development, I am an avid programmer with a passion for alg
 
 Portfolio link https://portfolio.prathamesh.site
 
-### Blogs posts
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prathamesh-gurav-557bb9277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathamesh-gurav-557bb9277" height="30" width="40" /></a>
