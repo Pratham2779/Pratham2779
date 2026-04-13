@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Prathamesh Arun Gurav</h1>
+<h1 align="center">Hi, I'm Prathamesh Arun Gurav</h1>
 <h3 align="center">A Third Year Information Technology Student at Walchand College of Engineering, Sangli</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pratham2779&label=Profile%20views&color=0e75b6&style=flat" alt="Pratham2779" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pratham2779" alt="Pratham2779" /></a> </p>
 
-### 👨‍💻 About Me
+### About Me
 
 I am a third-year Information Technology undergraduate specializing in full-stack development and DevOps. I enjoy building scalable, containerized applications—such as cloud IDEs and centralized management systems—and have hands-on experience setting up and managing self-hosted Linux servers using Docker, Nginx, and Traefik.
 
 Beyond web and cloud development, I am an avid programmer with a passion for algorithms and data structures, maintaining a good global ranking on LeetCode. I also enjoy tinkering with IoT hardware and exploring network security.
 
-* 🌱 **Currently focusing on:** Advanced system architecture, CI/CD automation, and solving algorithmic challenges.
-* 💼 **Open to:** Software Engineering and DevOps Summer Internships for 2026.
-* ⚡ **Fun fact:** I built a fully functional homelab server from a repurposed PC to securely host my personal projects!
+* **Currently focusing on:** Advanced system architecture, CI/CD automation, and solving algorithmic challenges.
+* **Open to:** Software Engineering and DevOps Summer Internships for 2026.
+* **Fun fact:** I built a fully functional homelab server from a repurposed PC to securely host my personal projects!
 
 <br>
 
