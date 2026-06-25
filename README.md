@@ -38,14 +38,14 @@ Portfolio link https://portfolio.prathamesh.site
 
 
  <h1 align="center">Prathamesh Arun Gurav</h1>
-<p align="center">Third Year Information Technology Student at Walchand College of Engineering, Sangli</p>
+<p align="center">Final Year Information Technology Student at Walchand College of Engineering, Sangli</p>
 
 
 ---
 
 ## About Me
 
-I am a third-year Information Technology undergraduate with a focus on full-stack development and DevOps. I enjoy building scalable, containerized applications such as cloud IDEs and centralized management systems, and I have hands-on experience setting up and managing self-hosted Linux servers using Docker, Nginx, and Traefik.
+I am a Final-year Information Technology undergraduate with a focus on full-stack development and DevOps. I enjoy building scalable, containerized applications such as cloud IDEs and centralized management systems, and I have hands-on experience setting up and managing self-hosted Linux servers using Docker, Nginx, and Traefik.
 
 I am also interested in algorithms and data structures, and I like solving programming problems regularly. In addition, I enjoy working with IoT hardware and exploring network security.
 
@@ -76,7 +76,7 @@ I am also interested in algorithms and data structures, and I like solving progr
 <table align="center">
   <tr>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50" />
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" width="50" height="50" />
       <br>AWS
     </td>
     <td align="center" width="120">
